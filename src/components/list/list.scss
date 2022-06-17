@@ -1,0 +1,16 @@
+.list {
+    width: 100%;
+    color: black;
+    .list-title {
+        color: #fff;
+        font-style: 20px;
+        font-weight: 500;
+        margin-left: 50px;
+    }
+    .list-films {
+        .films-container {
+            margin-left: 50px;
+            display: flex;
+        }
+    }
+}
